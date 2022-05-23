@@ -1,0 +1,11 @@
+from EmployeeClass import *
+emp1= Employee(101,"Ram","Delhi",45000)
+emp2= Employee(102,"Joshi","Banglore",35000)
+emp3= Employee(103,"Peter","Lucknow",35000)
+emp4= Employee(104,"Ashna","Chennai",30000)
+emp5= Employee(105,"Raghav","kolkata",45000)
+emp1.getemployee()
+emp2.getemployee()
+emp3.getemployee()
+emp4.getemployee()
+emp5.getemployee()
